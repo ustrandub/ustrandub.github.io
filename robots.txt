@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ustrandub.github.io/sitemap
+Sitemap: https://ustrandub.github.io/app/sitemap
+Sitemap: https://ustrandub.github.io/assets/sitemap
+Sitemap: https://ustrandub.github.io/css/sitemap
+Sitemap: https://ustrandub.github.io/includes/sitemap
+Sitemap: https://ustrandub.github.io/item/sitemap
+Sitemap: https://ustrandub.github.io/src/sitemap
